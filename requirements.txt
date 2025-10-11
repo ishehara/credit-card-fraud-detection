@@ -1,0 +1,28 @@
+# Core Data Science Libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Jupyter
+jupyter
+notebook
+ipython
+ipykernel
+
+# Utilities
+tqdm
+pillow
+
+# Optional but recommended
+jupyterlab
