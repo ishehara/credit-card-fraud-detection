@@ -1,1 +1,11 @@
 /venv
+creditcard.csv
+__pycache__/
+.ipynb_checkpoints
+*.npy
+.DS_Store
+.vscode/
+*.pyc
+.env
+.env.local
+*.png
