@@ -1,5 +1,5 @@
 /venv
-creditcard.csv
+*.csv
 __pycache__/
 .ipynb_checkpoints
 *.npy
@@ -9,3 +9,4 @@ __pycache__/
 .env
 .env.local
 *.png
+*.h5
